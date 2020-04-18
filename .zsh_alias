@@ -1,0 +1,5 @@
+#List of aliases
+
+alias n="nnn -RH"
+alias install="yay -S"
+alias update="yay -Syu"
