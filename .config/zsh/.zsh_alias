@@ -1,7 +1,0 @@
-#List of Aliasa
-
-alias n="nnn -RH"
-alias install="yay -S"
-alias update="yay -Syu"
-alias remove="yay -R"
-alias ls="exa -laBhum@ --time-style default --git"
