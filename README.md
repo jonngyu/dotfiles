@@ -1,1 +1,1 @@
-# my_zsh_setup
+# my dotfiles
