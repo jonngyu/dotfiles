@@ -1,0 +1,42 @@
+2020/06/14-23:14:55.398 2263b Reusing MANIFEST leveldb/MANIFEST-000001
+2020/06/14-23:14:55.399 2263b Recovering log #12
+2020/06/14-23:14:55.400 2263b Reusing old log leveldb/000012.log 
+2020/06/14-23:15:55.407 226a2 Level-0 table #16: started
+2020/06/14-23:15:55.417 226a2 Level-0 table #16: 16986 bytes OK
+2020/06/14-23:15:55.421 226a2 Delete type=0 #12
+2020/06/15-02:05:14.633 226a2 Level-0 table #18: started
+2020/06/15-02:05:14.643 226a2 Level-0 table #18: 17807 bytes OK
+2020/06/15-02:05:14.647 226a2 Delete type=0 #15
+2020/06/15-02:05:14.648 2322b Compacting 4@0 + 1@1 files
+2020/06/15-02:05:14.653 2322b Generated table #19@0: 110 keys, 12467 bytes
+2020/06/15-02:05:14.653 2322b Compacted 4@0 + 1@1 files => 12467 bytes
+2020/06/15-02:05:14.655 2322b compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/15-02:05:14.656 2322b Delete type=2 #16
+2020/06/15-02:05:14.656 2322b Delete type=2 #7
+2020/06/15-02:05:14.656 2322b Delete type=2 #10
+2020/06/15-02:05:14.656 2322b Delete type=2 #18
+2020/06/15-02:05:14.656 2322b Delete type=2 #13
+2020/06/15-05:55:14.633 2322b Level-0 table #21: started
+2020/06/15-05:55:14.642 2322b Level-0 table #21: 14831 bytes OK
+2020/06/15-05:55:14.647 2322b Delete type=0 #17
+2020/06/15-09:45:14.634 2322b Level-0 table #23: started
+2020/06/15-09:45:14.643 2322b Level-0 table #23: 14822 bytes OK
+2020/06/15-09:45:14.648 2322b Delete type=0 #20
+2020/06/15-13:25:14.632 24e9f Level-0 table #25: started
+2020/06/15-13:25:14.640 24e9f Level-0 table #25: 15483 bytes OK
+2020/06/15-13:25:14.644 24e9f Delete type=0 #22
+2020/06/15-17:15:14.635 24e9f Level-0 table #27: started
+2020/06/15-17:15:14.644 24e9f Level-0 table #27: 14898 bytes OK
+2020/06/15-17:15:14.648 24e9f Delete type=0 #24
+2020/06/15-17:15:14.649 26c2c Compacting 4@0 + 1@1 files
+2020/06/15-17:15:14.655 26c2c Generated table #28@0: 110 keys, 12520 bytes
+2020/06/15-17:15:14.655 26c2c Compacted 4@0 + 1@1 files => 12520 bytes
+2020/06/15-17:15:14.658 26c2c compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/15-17:15:14.659 26c2c Delete type=2 #21
+2020/06/15-17:15:14.659 26c2c Delete type=2 #25
+2020/06/15-17:15:14.660 26c2c Delete type=2 #19
+2020/06/15-17:15:14.660 26c2c Delete type=2 #27
+2020/06/15-17:15:14.661 26c2c Delete type=2 #23
+2020/06/15-21:05:14.633 26c2c Level-0 table #30: started
+2020/06/15-21:05:14.643 26c2c Level-0 table #30: 14826 bytes OK
+2020/06/15-21:05:14.647 26c2c Delete type=0 #26
