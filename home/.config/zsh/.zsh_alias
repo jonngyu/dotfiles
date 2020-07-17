@@ -1,7 +1,16 @@
-#List of Aliasa
+#List of Alias
 
-alias n="nnn -RH"
+################
+# System alias #
+################
+
+alias n="nnn -aRH"
 alias install="yay -S"
 alias update="yay -Syu"
 alias remove="yay -R"
+
+#####################
+# Application alias #
+#####################
+
 alias ls="exa -laBhum@ --time-style default --git"
